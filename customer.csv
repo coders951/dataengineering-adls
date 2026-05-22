@@ -1,0 +1,16 @@
+Index,Customer Id,First Name,Last Name,Company,City,Country,Phone 1,Phone 2,Email,Subscription Date,Salary
+1,CUST1001,John,Doe,TechNova,New York,USA,9876543210,9123456780,john.doe@gmail.com,2024-01-10,85000
+2,CUST1002,Sarah,Smith,DataWorks,London,UK,9876543211,9123456781,sarah.smith@gmail.com,2024-01-12,62000
+3,CUST1003,Rahul,Sharma,CloudHive,Bangalore,India,9876543212,9123456782,rahul.sharma@gmail.com,2024-01-15,45000
+4,CUST1004,Emily,Jones,FinEdge,Sydney,Australia,9876543213,9123456783,emily.jones@gmail.com,2024-01-20,78000
+5,CUST1005,Michael,Brown,NextGen,Chicago,USA,9876543214,9123456784,michael.brown@gmail.com,2024-01-22,92000
+6,CUST1006,Amit,Verma,InnoSoft,Hyderabad,India,9876543215,9123456785,amit.verma@gmail.com,2024-01-25,39000
+7,CUST1007,Olivia,Taylor,SmartApps,Toronto,Canada,9876543216,9123456786,olivia.taylor@gmail.com,2024-01-28,71000
+8,CUST1008,Daniel,Wilson,AlphaTech,Berlin,Germany,9876543217,9123456787,daniel.wilson@gmail.com,2024-02-01,81000
+9,CUST1009,Priya,Reddy,CloudSphere,Chennai,India,9876543218,9123456788,priya.reddy@gmail.com,2024-02-03,56000
+10,CUST1010,James,Anderson,VisionWare,Seattle,USA,9876543219,9123456789,james.anderson@gmail.com,2024-02-05,67000
+11,CUST1011,Anjali,Patel,ByteBridge,Mumbai,India,9876543220,9123456790,anjali.patel@gmail.com,2024-02-07,49000
+12,CUST1012,David,Clark,DataMinds,Dublin,Ireland,9876543221,9123456791,david.clark@gmail.com,2024-02-10,88000
+13,CUST1013,Sophia,Martin,CloudNet,Paris,France,9876543222,9123456792,sophia.martin@gmail.com,2024-02-12,73000
+14,CUST1014,Arjun,Nair,NextWave,Kochi,India,9876543223,9123456793,arjun.nair@gmail.com,2024-02-15,41000
+15,CUST1015,Lucas,Moore,InfiTech,Austin,USA,9876543224,9123456794,lucas.moore@gmail.com,2024-02-18,99000
