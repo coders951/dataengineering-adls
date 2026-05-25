@@ -26,7 +26,7 @@ s3 = boto3.client(
 )
 
 s3.put_object(
-    Bucket='your-bucket-name',
+    Bucket='batch-54-demo',
     Key='users.csv',
     Body=csv_buffer.getvalue()
 )
